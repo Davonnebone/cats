@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(244, 241, 101);
+}
+
+.cats {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.flowercat-img {
+    width: 200px;
+    height: 200px;
+}
+
+.flowercat-img:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.happycat-img {
+    width: 200px;
+    height: 200px;
+
+}
+
+.happycat-img:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.cat-img {
+    width: 200px;
+    height: 200px;
+}
+
+.cat-img:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.blehcat-img {
+    width: 200px;
+    height: 200px;
+}
+
+.blehcat-img:hover {
+    width: 300px;
+    height: 300px;
+}

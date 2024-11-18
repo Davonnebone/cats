@@ -1,0 +1,19 @@
+.cutecat-div {
+    text-align: center;
+}
+
+.cutecat-img {
+    margin-top: 12%;
+    width: 200px;
+    height: 200px;
+}
+
+.cutecat-img:hover {
+    width: 300px;
+    height: 300px;
+}
+
+
+body {
+    background-color: rgb(244, 241, 101);
+}

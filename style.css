@@ -1,0 +1,31 @@
+.button1-text {
+    
+    text-align: center;
+}
+
+.button1 {
+    color: gold;
+    border: solid;
+    background-color: blanchedalmond;
+    width: 140px;
+    height: 70px;
+    font-size: 20px;
+    margin-top: 6%;
+    border-radius: 5%;
+}
+
+.button1:hover {
+    cursor: grab;
+    width: 180px;
+    height: 90px;
+}
+
+body {
+    background-color: rgb(250, 237, 180);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 45px;
+
+}
